@@ -1,10 +1,5 @@
 package pbst;
 
-//import java.util.ArrayList;
-
-// (c) Larry Herman, 2022.  You are allowed to use this code yourself, but
-// not to provide it to anyone else.
-
 import java.util.Collection;
 
 abstract public class PBST<K extends Comparable<K>, V> {
