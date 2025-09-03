@@ -1,0 +1,82 @@
+payee_id,payee_name,payee_address,city,state,zip,type_id
+0,ADP,"6500 River Pl Blvd Building 7,  Suite. 150",Austin, TX,78730,0
+1,American Printing & Mailing,1606 Headway Circle,Austin, TX,78754,0
+2,Anedot,"4017 Buena Vista St., #109",Dallas, TX,75204,0
+3,Anedot,PO Box 84314,Baton Rouge, LA,70884,0
+4,Apple Itunes,One Infinite Loop,Cupertino, CA,95014,0
+5,Arellano Edna,"2900 Cole St, #308",Austin, TX,78705,1
+6,Avery Ranch Golf Club,10500 Avery Club Dr.,Cedar Park, TX,78717,0
+7,Bar Chi,206 Colorado St,Austin, TX,78701,0
+8,Barshop Noah,15715 Thrush Gate Lane,San Antonio, TX,78248,1
+9,Beadit,2058 S. Lamar Blvd.,Austin, TX,78704,0
+10,BumperActive,5907 Burnet Rd,Austin, TX,78757,0
+11,Burdick  Lucas,"7002 Bennett Ave, Apt #B",Austin, TX,78752,1
+12,Butts David,1914 Patton Ln,Austin, TX,78723,1
+13,Canyon View Event Center,4800 Spicewood Springs,Austin, TX,78759,0
+14,Central Market,4001 N Lamar Blvd,Austin, TX,78756,0
+15,CFO Shield LLC dba Red Elephant Reports,PO Box 953,Colleyville, TX,76034,0
+16,Chase Bank,2414 Guadalupe,Austin, TX,78705,0
+17,CheckMark Typesetting,3217 N Interstate 35 Frontage Rd,Austin, TX,78722,0
+18,City of Austin,301 W. 2nd St,Austin, TX,78701,0
+19,Collective Campaigns,"3607 Greystone, #2024",Austin, TX,78731,0
+20,Collective Campaigns,9901 Brodie Lane Ste 160 #1143,Austin, TX,78748,0
+21,Contreras Victoria,1975 Aquarena Springs Dr. #334C,San Marcos, TX,78666,1
+22,Creative Civilization,1412 W 6th St,Austin, TX,78703,0
+23,Datafinder.ciom,"7530 164th Ave. NE, Suite A204",Redmond, WA,98052,0
+24,DonateWay,P.O. Box 301267,Austin, TX,78703,0
+25,Egolinsky Raime,2903 E 12th Street,Austin, TX,78702,1
+26,Elleh Mojana,7330 Bluff Springs Dr. #4301,Austin, TX,78744,1
+27,Facebook,1 Facebook Way,Menlo Park, CA,94025,0
+28,Facebook,1 Hacker Way,Menlo Park, CA,94025,0
+29,Farasat Romteen,1401 Meadgreen Cir.,Austin, TX,78758,1
+30,Fast Signs,"8820 Burnet Road, Suite 504",Austin, TX,78750,0
+31,FedEx Office Print & Ship Centers,327 Congress Ave,Austin, TX,78701,0
+32,Frost,401 Congress Ave Austin,Austin, TX,78701,0
+33,Frost Bank,P.O. Box 1600,San Antonio, TX,78296,0
+34,Gomez Cristina,PO Box 300146,Austin, TX,78703,1
+35,Gonzalez Sabrina,"520 Woodward St., Apt. #1315",Austin, TX,78704,0
+36,Google,1600 Amphitheatre Pkwy,Mountain View, CA,94043,0
+37,Gryphon Group,"30 N. Gould St., Ste. R",Sheridan, WY,82801,0
+38,Gusto,525 20th Street,San Francisco, CA,94107,0
+39,Haensgen Carissa,"2207 Nueces St, Unit 603",Austin, TX,78705,1
+40,Harland Clarke,15955 La Cantera Parkway,San Antonio, TX,78256,0
+41,Haubolt Christopher,529 Old Goliad Road,Victoria, TX,77905,1
+42,Heinrich Allison,2301 Ohlen Rd. #107,Austin, TX,78766,1
+43,Holts Jovon,"1401 AW Grimes Boulevard, Apt #637",Round Rock, TX,78664,1
+44,Jake Webber,1201 Columbia #A,San Marcos, TX,78666,0
+45,Kelly Graphics,1409 Quaker Ridge,Austin, TX,78746,0
+46,Krakauer Ganz Zachary,1706 W 32nd St,Austin, TX,78703,1
+47,Langmore Grant,1408 Preston Ave,Austin, TX,78703,1
+48,Lars Max,"2223 Waterloo City Ln, Apt 342",Austin, TX,78741,1
+49,Last Lomas,"730 W Stassney Lane, Suite 130",Austin, TX,78745,0
+50,Littlefield consulting,PO Box 90591,Austin, TX,78709,0
+51,Marshall's,1201 Barbara Jordan Blvd.,Austin, TX,78723,0
+52,McKinney James,6917 Langston Dr.,Austin, TX,78723,1
+53,Nationbuilder,"520 S. Grand Ave., 2nd Floor, #200",Los Angeles, GA,90071,0
+54,NGP Van,"655 15th St NW, Ste 650",Washington, DC,20005,0
+55,Office Depot,2620 W. Anderson LN,Austin, TX,78757,0
+56,Office Max Inc.,4615 North Lamar,Austin, TX,78710,0
+57,Owens Alejandro,1400 Green Downs Dr.,Round Rock, TX,78664,1
+58,PAYA (fka Sage Payment Solutions),"12120 Sunset Hills Rd, Ste 500",Reston, VA,20190,0
+59,PlainsCapital Bank,2323 Victory Ave,Dallas, TX,75219,0
+60,Postmaster,6104 Old Fredercksburg Rd.,Austin, TX,78749,0
+61,Roberton Jessica,"10403 Golden Meadow Dr, Unit A, Unit A",Austin, TX,78758,1
+62,SAGE PAYMENT SOLUTION,1750 OLD MESDOW ROAD,Mclean, VA,22102,0
+63,Siever Michael,9508 Meadowheath Dr.,Austin, TX,78729,1
+64,Solidarity Strategies LLC,P.O. Box 15260,Washington, DC,20003,0
+65,Squarespace,"225 Varick Street, 12th Floor",New York, NY,10014,0
+66,SquareSpace Inc.,8 Clarkson St.,New York, NY,10014,0
+67,Steeg Susan,8702 El Rey Blvd,Austin, TX,78737,1
+68,Steve Mims Films,4606 Rosedale Ave,Austin, TX,78756,0
+69,Susan Harry Consulting LLC,PO Box 301074,Austin, TX,78703,0
+70,Tacodeli,Rosedale 4200 N. Lamar Blvd,Austin, TX,78756,0
+71,Tesmer Darrell,"6836 Austin Center Blvd, Building 1 Suite 280",Austin, TX,78731,1
+72,Turner Andrew,5304 Woodrow Ave #B,Austin, TX,78756,1
+73,Uber,1455 Market St,San Francisco, CA,94103,0
+74,United State Postal Service,3507 N Lamar Blvd,Austin, TX,78705,0
+75,Warren Kimie,"4501 E Riverside Dr, Apt 3028",Austin, TX,78741,1
+76,Wells Fargo,1601 West 35th Street,Austin, TX,78703,0
+77,Will Conley Campaign,701 Mountain Crest,Wimberley, TX,78676,0
+78,Wix.com,2601 Mission Street,San Francisco, CA,94110,0
+79,Worley Printing,3217 N Interstate 35,Austin, TX,78722,0
+80,Y Strategy,"3110 Manor Rd, Ste H",Austin, TX,78723,0

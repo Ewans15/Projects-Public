@@ -1,0 +1,81 @@
+description_id,description
+0,ACCOUNT | Quickbooks subscription fees
+1,Accounting/Banking
+2,Accounting/Banking | accounting/banking monthly service fee
+3,Accounting/Banking | Merchant Fees
+4,ADVERTISE
+5,ADVERTISE | Digital advertising
+6,ADVERTISE | Signs
+7,ADVERTISE | Video production
+8,ADVERTISE | Yard Signs/Printing
+9,Advertising Expense | ad
+10,Advertising Expense | Advertising Expense
+11,Advertising Expense | Digital advertising
+12,Advertising Expense | Facebook ad
+13,Advertising Expense | Google Suite
+14,"Advertising Expense | Monthly Website Expense, Paid with Personal Funds, Reimbursed 10/01/18"
+15,Advertising Expense | Website Development
+16,Bank Fee
+17,Campaign Contribution
+18,CONSULT | Consulting Services
+19,CONSULT | Fundraising & compliance consulting
+20,CONSULT | Petitioning
+21,CONSULT | Signature Collection
+22,Consulting Expense | Contract labor
+23,Consulting Expense | Robo Calls
+24,Consulting Expense | Video production and editing
+25,DONATIONS | Campaing Contribution
+26,Event Expense | Event Expense
+27,Event Expense | Space rental for PAC membership event
+28,Fees | Bank Fees
+29,Fees | Campaign donor website donation processing/handling fee
+30,Fees | Campaign Manager Salary
+31,Fees | Checks
+32,Fees | Credit Card Processing fees
+33,FEES | Fees
+34,Fees | Monthly Service Charge
+35,FEES | Payroll fee
+36,Fees | Transaction Fee
+37,FEES | Website service fee
+38,Food/Beverage Expense | Food
+39,Food/Beverage Expense | for petitioners
+40,Gift/Awards/Memorials Expense | 20161107
+41,Loan Repayment/Reimbursement | Repayment
+42,Office Overhead/Rental Expense | BANK FEE
+43,Office Overhead/Rental Expense | Campaign Email
+44,Office Overhead/Rental Expense | Data storage
+45,Office Overhead/Rental Expense | Database software
+46,Office Overhead/Rental Expense | Google Drive
+47,Office Overhead/Rental Expense | postage
+48,Office Overhead/Rental Expense | QuickBooks Subscription
+49,"OTHER | Mail Production, Postage and Shipping/Taxes | Mail Production, Postage and Shipping/Taxes"
+50,OVERHEAD | Database software
+51,OVERHEAD | Office Supplies
+52,OVERHEAD | ride share
+53,Polling Expense | District 8 polling for PAC
+54,Polling Expense | Polling Expense
+55,"PRINTING | Printing, Mail, Postage"
+56,PRINTING | stickers
+57,Printing Expense
+58,Printing Expense | Banners
+59,Printing Expense | Mail
+60,Printing Expense | Printing
+61,Printing Expense | road sign additions
+62,SALARIES | Campaign Manager salary
+63,SALARIES | Canvassing
+64,SALARIES | Contract services
+65,SALARIES | Field
+66,SALARIES | Net Pay
+67,SALARIES | Payroll
+68,SALARIES | Payroll fee
+69,SALARIES | Payroll taxes
+70,Salaries/Wages/Contract Labor
+71,Salaries/Wages/Contract Labor | Consulting Work
+72,Salaries/Wages/Contract Labor | contract labor
+73,Salaries/Wages/Contract Labor | Contract work
+74,Salaries/Wages/Contract Labor | Field Organizer
+75,Salaries/Wages/Contract Labor | Petition Manager
+76,Salaries/Wages/Contract Labor | Petitioning
+77,Salaries/Wages/Contract Labor | Web mgmt
+78,Solicitation/Fundraising Expense | Canvassing
+79,Transportation Equipment & Related Expense | Parking
